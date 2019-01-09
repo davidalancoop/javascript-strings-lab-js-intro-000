@@ -8,4 +8,4 @@ var topic = "space";
 
 var vampire = "Let's talk about "
 
-var conversation = `${topic}.`;
+var conversation = `${vampire + topic}.`;
